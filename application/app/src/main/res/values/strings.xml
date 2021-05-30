@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">application</string>
+    <string name="armath">Արմաթ Գանձակ</string>
+    <string name="button_name">Սկսել</string>
+    <string name="hello">Բարև</string>
+    <string name="bye">հաջող</string>
+    <string name="tomorrow">վաղը</string>
+    <string name="yesterday">երեկ</string>
+    <string name="today">այսօր</string>
+</resources>
